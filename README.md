@@ -1,2 +1,2 @@
 # About
-This is a database for the game http://demon.ferretdev.org/
+This is a database for the game Demon http://demon.ferretdev.org/
